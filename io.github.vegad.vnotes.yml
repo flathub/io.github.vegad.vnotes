@@ -26,7 +26,7 @@ modules:
       - install -D src/editor.py /app/bin/editor.py
       - install -D src/fileframework.py /app/bin/fileframework.py
       - install -D src/settingsmenu.py /app/bin/settingsmenu.py
-      - install -D buildinfo.py /app/bin/buildinfo.py
+      - install -D src/buildinfo.py /app/bin/buildinfo.py
       - install -D LICENSE.txt /app/bin/LICENSE.txt
       - install -D io.github.vegad.vnotes.desktop /app/share/applications/io.github.vegad.vnotes.desktop
       - install -D io.github.vegad.vnotes.appdata.xml /app/share/metainfo/io.github.vegad.vnotes.appdata.xml
